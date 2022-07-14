@@ -21,7 +21,10 @@ Run the Dockerfile:
 ```bash
   ./docker.sh
 ```
-
+Run with volume:
+```bash
+  mkdir hostname
+```
 
 ## Instructions
 
