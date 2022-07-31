@@ -61,4 +61,4 @@ allowed.
 
 - [@salecler](https://www.github.com/salecler)
 
-[![salecler's 42 stockholm Score](https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2668180)](https://github.com/salecler)
+[![salecler's 42 ft_onion Score](https://badge42.vercel.app/api/v2/cl4wihxp0008809migsvxuh4t/project/2659852)](https://github.com/salecler)
